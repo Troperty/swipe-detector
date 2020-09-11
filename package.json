@@ -1,6 +1,6 @@
 {
   "name": "swipe-detector",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "javascript Swipe gesture detector.",
   "main": "src/swipe-detector.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wnr/swipe-detector.git"
+    "url": "git+https://github.com/Troperty/swipe-detector.git"
   },
   "keywords": [
     "swipe",
     "event",
     "javascript"
   ],
-  "author": "Daniel Kihlgren & Lucas Wiener",
+  "author": "Daniel Kihlgren & Lucas Wiener @ Svensktravsport",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wnr/swipe-detector/issues"
+    "url": "https://github.com/Troperty/swipe-detector/issues"
   },
-  "homepage": "https://github.com/wnr/swipe-detector#readme"
+  "homepage": "https://github.com/Troperty/swipe-detector#readme"
 }
